@@ -1,16 +1,16 @@
 # Portfolio Krisna Aji Pangestu
-- [About me](#about-me)
+- [ABOUT MME](#about-me)
 - [CV](#cv)
-- [Skills](#skills)
-- [Tools](#tools)
-- [Experience](#experience)
-- [Examples of my work](#examples-of-my-work)
+- [SKILLS](#skills)
+- [TOOLS](#tools)
+- [EXPERIENCE](#experience)
+- [EXAMPLES OF MY WORK](#examples-of-my-work)
   * [Manual Testing Saucedemo Website](#manual-testing-saucedemo-website)
   * [BDD Gherkin Manual Testing](#bdd-gherkin-manual-testing)
   * [Load Testing Website Using K6](#load-testing-website-using-k6)
-- [Sources that I use to learn](#sources-that-i-use-to-learn)
+- [SOURCES THAT I USE TO LEARN](#sources-that-i-use-to-learn)
 
-## About me
+## ABOUT ME
 
 Information Technology fresh graduate at Universitas Darma Persada with GPA 3,32. I am someone who has a high enthusiasm for learning, full of curiosity, a person with passion and integrity. 
 
@@ -19,17 +19,17 @@ I am interested in Software Quality Assurance (SQA), Web Development, and IoT (I
 I also have soft skills which include Leadership, Teamwork, Time Management, Commnication, Problem Solving, and Computational Thinking.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1IkuLD7hWPoMCon9LEMFWDE9BmoOb1xun/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1V24M7Npi3h_1JTRRGX0Ub4HR-N2E9IjO/view?usp=sharing).
 
-## Skills
+## SKILLS
 
-__Manual Testing__
+__MANUAL TESTING__
   * Can perform manual functional and usability testing of web and mobile application
   
-__Selenium Testing__
+__SELENIUM TESTING__
   * Can perform automation testing using Selenium IDE in web browser
   
-__API Testing__
+__API TESTING__
   * Can perform API testing using Postman API.
   * Know the difference between SOAP and REST APIs
     
@@ -37,11 +37,11 @@ __LOAD TESTING__
   * Can perform load testing using K6 in Visual Studio Code
   * Can can visualize testing results reports
 
-__Test documentation__
+__TEST DOCUMENTATION__
   * Can create test cases and checklists and know how and in which situations to use them effectively
   * Able to prepare comprehensive bug reports and provide detailed session reports
     
-__SQL Database__
+__SQL DATABASE__
   * Understanding of MySQL including basic structure and SQL queries. such as Create, Read, Upload, and Delete (CRUD)
   * Can using MySQL and PostgreSQL
   * Can write complex requests using subqueries
@@ -66,27 +66,27 @@ __VB.NET__
   * Understanding of VB.NET including control structures, variables, elements, and arrays.
 
 
-## Tools
+## TOOLS
 
-__Arduino UNO__
+__ARDUINO UNO__
 * Know how to using arduino library
 * Able to create IoT program using C#
 * Able to assembling IoT components
   
-__Postman API__
+__POSTMAN API__
 * Know how to perform API testing
   
-__Selenium IDE__
+__SELENIUM IDE__
 * Know how to perform automation testing in web browser
   
-__Spreadsheet__
+__SPREADSHEET__
 * Able to create test case and report using spreadsheeet table
   
-__Visual Basic__
+__VISUAL STUDIO__
 * Able to create project using VB.NET
 * Know how to build simple program VB.NET
   
-__Visual Studio Code__
+__VISUAL STUDIO CODE__
 * Able to create various program such HTML, CSS, JAVASCRIPT, PHP, JSON, Dart, Python, and Typescript (XML).
 * Know how to running program in web browser
 
@@ -99,7 +99,7 @@ __Project-Based Virtual Intern : Quality Assurance Evermos x Rakamin Academy__
   * Learn about : API (Aplication Programming Interface), Bug, Mobile Automation, Testing, QA Basic Knowledge, Testing Principles & Scenario, Web Automation, K6, and Postman.
 
 
-## Examples of my work
+## EXAMPLES OF MY WORK
 
 ### Manual Testing Saucedemo Website
 [Simple online shop website for training ](https://www.saucedemo.com/) was used to create demo test cases
@@ -122,7 +122,7 @@ __Project-Based Virtual Intern : Quality Assurance Evermos x Rakamin Academy__
 
 
 
-## Sources that I use to learn
+## SOURCES THAT I USE TO LEARN
 - (https://www.guru99.com/software-testing.html) GURU99 website (in English) - an excellent webpage for beginners. It explains the general of software testing, basic techniques in software testing, and practice project provide by GURU99.
 
 - (https://www.youtube.com/@BincangQA) youtube channel BincangQA (in Bahasa Indonesia) - an excellent youtube channel for beginners. It explains QA testing tutorials with various types and tools, such as manual testing, Cucumber Selenium JAVA, BDD Gherkin, POSTMAN API, Automation Test using Karate, and general things about QA.
