@@ -91,7 +91,7 @@ __VISUAL STUDIO CODE__
 * Know how to running program in web browser
 
 
-## Experience
+## EXPERIENCE
 
 __Project-Based Virtual Intern : Quality Assurance Evermos x Rakamin Academy__
 - Evermos x Rakamin Academy (November 2023 – December 2023)
