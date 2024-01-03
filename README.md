@@ -110,7 +110,7 @@ __Manual Testing Saucedemo Website__
 __BDD Gherkin Manual Testing__
 [Simple online shop website for training ](https://www.saucedemo.com/) was used to create demo test cases
   - Test case for checking the whole process (in English).
-    * Check [the Google Sheets document here](-)
+    * Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1V_YOhWrXImRHsqdZymtWkPccHawiOzJyQ0ZoSOXrhws/edit?usp=sharing)
 
 
 __Load Testing Website Using k6__
