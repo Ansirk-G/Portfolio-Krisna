@@ -1,6 +1,6 @@
 # Portfolio Krisna Aji Pangestu
 - [ABOUT MME](#about-me)
-- [CV](#cv)
+- [CV](#cV)
 - [SKILLS](#skills)
 - [TOOLS](#tools)
 - [EXPERIENCE](#experience)
