@@ -101,19 +101,19 @@ __Project-Based Virtual Intern : Quality Assurance Evermos x Rakamin Academy__
 
 ## EXAMPLES OF MY WORK
 
-### Manual Testing Saucedemo Website
+__Manual Testing Saucedemo Website__
 [Simple online shop website for training ](https://www.saucedemo.com/) was used to create demo test cases
   - Test case for checking the whole process (in English).
     * Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1U_oMjfvWJE6Q35Erlvo5RjUh1NluxD-XtCMNWn1MDEs/edit?usp=sharing)
   
 
-### BDD Gherkin Manual Testing
+__BDD Gherkin Manual Testing__
 [Simple online shop website for training ](https://www.saucedemo.com/) was used to create demo test cases
   - Test case for checking the whole process (in English).
     * Check [the Google Sheets document here](-)
 
 
-### Load Testing Website Using k6
+__Load Testing Website Using k6__
 [Website for training API Test](https://reqres.in) was used to demo API testing and Frontend testing using real API
 - Test case for testing website performance with 1.000 virtual users, 3.500 iteration, and the maximum API response tolerance limit is 2 seconds (in Bahasa Indonesia).
   * Check [the screenshoot for Request Metrics](https://drive.google.com/file/d/1W7_dPWx9wctaG-s01db5DK8ZPZyKTeo3/view?usp=drive_link)
