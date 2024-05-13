@@ -8,7 +8,7 @@
   * [Manual Testing Saucedemo Website](#manual-testing-saucedemo-website)
   * [BDD Gherkin Manual Testing](#bdd-gherkin-manual-testing)
   * [Load Testing Website Using K6](#load-testing-website-using-k6)
-  * [Manual Testing Demoblaze Website](#manual-testing-demoblaze-website)]
+  * [Manual Testing Demoblaze Website](#manual-testing-demoblaze-website)
 - [SOURCES THAT I USE TO LEARN](#sources-that-i-use-to-learn)
 
 ## ABOUT ME
