@@ -8,6 +8,7 @@
   * [Manual Testing Saucedemo Website](#manual-testing-saucedemo-website)
   * [BDD Gherkin Manual Testing](#bdd-gherkin-manual-testing)
   * [Load Testing Website Using K6](#load-testing-website-using-k6)
+  * [Manual Testing Demoblaze Website](#manual-testing-demoblaze-website)]
 - [SOURCES THAT I USE TO LEARN](#sources-that-i-use-to-learn)
 
 ## ABOUT ME
@@ -95,8 +96,8 @@ __VISUAL STUDIO CODE__
 
 __Project-Based Virtual Intern : Quality Assurance Evermos x Rakamin Academy__
 - Evermos x Rakamin Academy (November 2023 – December 2023)
-  * Carry out learning and practice with the final assignment.
-  * Learn about : API (Aplication Programming Interface), Bug, Mobile Automation, Testing, QA Basic Knowledge, Testing Principles & Scenario, Web Automation, K6, and Postman.
+  * Successfully completed comprehensive training program, including hands-on practice and final assessment to demonstrate mastery of key concepts and skills
+  * Discover topics such as API, Bug, Mobile & Web Automation, Testing Principles, Testing Scenarios, K6, and Postman, with a focus on QA Basic Knowledge and K6 Load Testing
 
 
 ## EXAMPLES OF MY WORK
@@ -120,7 +121,7 @@ __Load Testing Website Using k6__
   * Check [the screenshoot for Other Stats](https://drive.google.com/file/d/1mLNvda1R40S55z3vNSCdiGWJOKwnsC1J/view?usp=sharing)
   * Check [the screenshoot for Check & Groups](https://drive.google.com/file/d/1dqVDST61Mc0JcCeKGTG53GGk2qvOG-em/view?usp=sharing)
 
-__Manual Testing DemoBlaze Website__
+__Manual Testing Demoblaze Website__
 [Simple online store website](https://www.demoblaze.com/index.html) was used to performed whole proccess of manual testing
 - Test Scenario for conduct the scope of manual testing (in English).
     * Check [the Google Sheets document here](link)
