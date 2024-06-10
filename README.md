@@ -124,11 +124,11 @@ __Load Testing Website Using k6__
 __Manual Testing Demoblaze Website__
 [Simple online store website](https://www.demoblaze.com/index.html) was used to performed whole proccess of manual testing
 - Test Scenario for conduct the scope of manual testing (in English).
-    * Check [the Google Sheets document here](link)
+    * Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1S8LwxVHL4NKFauvjZcorK3ojc3YFNQLp/edit?usp=sharing&ouid=110433239661032396576&rtpof=true&sd=true)
 - Test Case for performed manual testing on all website features (in English).
-    * Check [the Google Sheets document here](link)
+    * Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1z_abU113MtMXkaIMHJMZgzpfxO-uBhBQ/edit?usp=sharing&ouid=110433239661032396576&rtpof=true&sd=true)
 - Bug Report's for make a documnets report for dev team (in English).
-    * Check [the Google Sheets document here](link)
+    * Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1hDuqiIGqplroTMlFiYcfqx5pNoY3zq2v/edit?usp=sharing&ouid=110433239661032396576&rtpof=true&sd=true)
 
 ## SOURCES THAT I USE TO LEARN
 - (https://www.guru99.com/software-testing.html) GURU99 website (in English) - an excellent webpage for beginners. It explains the general of software testing, basic techniques in software testing, and practice project provide by GURU99.
